@@ -8,4 +8,8 @@ Não satisfeito, alterei mais uma vez
 
 Agora eu vou fazer lambança
 
+<<<<<<< HEAD
 lambança parte 2
+=======
+kkkkk
+>>>>>>> origin/main
